@@ -386,10 +386,3 @@ LightPaper - Markdown editor that I use.
 iterm2 - Terminal application for Mac.
 Oh My Zsh - Framework for managing your ZSH config. Awesome.
 Sublime Text Editor - For all your scripting needs.
-ABOUT ME
-I am currently working at an advanced energy storage start-up called Stem which is at the heart of revolutionizing how the grid integrates energy storage from a consumer and utility perspective. Our team works on a variety of different engineering challenges in particular, a lot of time-series problems.
-
-I am a chemical engineer and economist by formal education and have worked in the energy, water and carbon industries ever since college. I acquired my data science code skills through programming in an on-the-job environment and then taking three months off to learn to hone my data science skills @ Zipfian Academy (since acquired by Galvanize). For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment at Zipfian was irreplaceable. Even if all of Zipfian resources were open source, without taking the time off work it would have been next to impossible to learn all that content. Not to mention the great people I met through the program.
-
-I am always interested to hear what other data scientists are up to, especially those in the clean energy industry. If you have some project ideas or other resources that would be great to add here - feel free to reach out on Twitter @sf_oak, LinkedIn or AngelList.
-
