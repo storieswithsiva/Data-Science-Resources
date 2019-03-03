@@ -8,7 +8,7 @@ As a result I also tried to find topics that cover building data science teams, 
 
 This is a constant work in progress and I hope to refactor and update in some kind of meaningful time frame.
 
-If you find this resource helpful - please send it around to other people or you can [upvote it on datatau](http://www.datatau.com/item?id=4593), share it on linkedIn, twitter, Facebook, add it to Quora or just send me a note.   Good luck, I hope this helps you find what you are looking for now, or in the future.
+If you find this resource helpful - please send it around to other people or you can share it on linkedIn, twitter, Facebook, add it to Quora or just send me a note.   Good luck, I hope this helps you find what you are looking for now, or in the future.
 
 Remember - If you’re not prepared to be wrong, you’ll never come up with anything original.
 
