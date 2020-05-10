@@ -12,8 +12,8 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Data-Science-Resources.svg?logo=github&style=social)](https://github.com/iamsivab) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/Data-Science-Resources.svg?logo=git&style=social)](https://github.com/iamsivab/)[![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Data-Science-Resources.svg?logo=python&style=social)](https://github.com/iamsivab)
 
 #### Few popular hashtags - 
-### `#DataScience` `#Guide for Beginners` `#Self Learning`
-### `#patternlearning` `#BagofWords` `#textanalytics`
+### `#Self- Learning` `#Guide for Beginners` `#Self Learning`
+### `#Python` `#LearnDataScience` `#Machcine Learning`
 
 ### Motivation
 ### Step 0. What is What
