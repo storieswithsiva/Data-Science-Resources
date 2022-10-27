@@ -192,6 +192,7 @@ Feel free to share your ideas and thoughts.
 ### Useful Links
 
 1. [Towards Data Science](https://towardsdatascience.com/a-beginners-guide-to-data-science-55edd0288973)
+2. [Application of Data Science](https://www.scaler.com/topics/data-science/applications-of-data-science/)
  
 ### Related Work
 
