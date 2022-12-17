@@ -124,6 +124,8 @@ Here are some other great resources to explore:
 
 [The Python Tutorial — official documentation](https://docs.python.org/3/tutorial/)
 
+[Learn Python in Detail](https://www.scaler.com/topics/python/)
+
 After you learn the basics of Python, you need to spend time getting to know the main libraries.
 
 ### Step 3. Machine Learning
