@@ -194,6 +194,7 @@ Feel free to share your ideas and thoughts.
 ### Useful Links
 
 1. [Towards Data Science](https://towardsdatascience.com/a-beginners-guide-to-data-science-55edd0288973)
+2. [Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
  
 ### Related Work
 
